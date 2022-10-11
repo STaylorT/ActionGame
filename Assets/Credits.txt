@@ -1,0 +1,44 @@
+All assets used in this project are free on the Unity Asset Store, but have been modified or reorganized for simplicity.
+
+Unity Common Assets
+Bronson Zgeb
+https://github.com/bzgeb/UnityCommonAssets/blob/master/Models/SpecialPrimitives/cone.FBX
+- Cone.fbx
+
+Standard Assets
+Unity Technologies
+https://assetstore.unity.com/packages/essentials/asset-packs/standard-assets-32351
+- Textures/Mountain.png
+- Textures/Grass.png
+- Materials/Water.mat
+- Shaders/Water.shader
+- Scripts/Water.cs
+
+Modular Wooden Bridge Tiles
+Laxer
+https://assetstore.unity.com/packages/3d/props/exterior/modular-wooden-bridge-tiles-29501
+- Objects/Bridge.fbx
+- Textures/Bridge.png
+
+Heavy Knight PBR
+Dungeon Mason
+https://assetstore.unity.com/packages/3d/characters/humanoids/heavy-knight-pbr-70891
+- Objects/Knight.fbx
+- Textures/Knight.png
+- Textures/KnightMetal.png
+- Textures/KnightOcclusion.png
+- Textures/KnightNormals.png
+- Animations/KnightIdle.fbx
+- Animations/KnightRun.fbx
+- Animations/KnightAttack.fbx
+- Animations/KnightDie.fbx
+
+Fantasy Monster - Skeleton
+TeamJoker
+https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy-monster-skeleton-35635
+- Objects/Skeleton.fbx
+- Textures/Skeleton.png
+- Animations/SkeletonWalk.fbx
+- Animations/SkeletonRun.fbx
+- Animations/SkeletonAttack.fbx
+- Animations/SkeletonDie.fbx
